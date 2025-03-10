@@ -29,7 +29,7 @@ Dataset Link :- https://www.kaggle.com/mlg-ulb/creditcardfraud
 
 
 
-    NOTE:- If you are adding some model in models.py or changing something don't forget to make migrations 
+    NOTE:- If you are adding some model in models.py or changing something don't forget to make migrations.
 
         python manage.py makemigrations
 
